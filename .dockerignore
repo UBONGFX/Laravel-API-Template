@@ -1,8 +1,3 @@
-# Dockerfile.V1
-# Dockerfile.V2
-# Dockerfile.V3
-dockerOld
-
 env.example
 Dockerfile
 .git
